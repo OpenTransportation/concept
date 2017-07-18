@@ -1,5 +1,7 @@
 # OpenTransportation - Concept
 
+Similar to [OpenAddresses](https://openaddresses.io/) except for Transporation related datasets.
+
 The hardest struggle when dealing with large volumes of data is consistency, having common data formats & attributes across all your datasets is the first steps of transportation related analysis.
 
 ## Cities Available
