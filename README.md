@@ -1,4 +1,4 @@
-# Concept
+# OpenTransportation - Concept
 
 The hardest struggle when dealing with large volumes of data is consistency, having common data formats & attributes across all your datasets is the first steps of transportation related analysis.
 
@@ -18,8 +18,10 @@ The hardest struggle when dealing with large volumes of data is consistency, hav
 
 All data must follow the [OSM Highway scheme](https://wiki.openstreetmap.org/wiki/Key:highway).
 
-- `highway` (residential/trunk/secondary)
-- `lanes` (1/2/3)
-- `maxspeed` (40 in km/h)
-- `name` (main name for the road - pre-process value to conform to OSM naming convention)
-- `name:en` & `name:fr` (or any other multilingual tags)
+- [`highway`](https://wiki.openstreetmap.org/wiki/Key:highway) (`residential`/`trunk`/`secondary`)
+- [`lanes`](https://wiki.openstreetmap.org/wiki/Key:lanes) (`1`/`2`/`3`)
+- [`maxspeed`](https://wiki.openstreetmap.org/wiki/Key:maxspeed) (`40`/`50 mph`)
+- [`name`](https://wiki.openstreetmap.org/wiki/Key:name) (main name for the road - Value must conform to OSM naming convention)
+- [`name:en` & `name:fr`](https://wiki.openstreetmap.org/wiki/Key:name) (or any other multilingual tags)
+- [`surface`](https://wiki.openstreetmap.org/wiki/Key:surface) (`paved`/`unpaved`/`asphalt`)
+- [`lit`](https://wiki.openstreetmap.org/wiki/Key:lit) (`yes`/`no`)
