@@ -27,3 +27,10 @@ All data must follow the [OSM Highway scheme](https://wiki.openstreetmap.org/wik
 - [`name:en` & `name:fr`](https://wiki.openstreetmap.org/wiki/Key:name) (or any other multilingual tags)
 - [`surface`](https://wiki.openstreetmap.org/wiki/Key:surface) (`paved`/`unpaved`/`asphalt`)
 - [`lit`](https://wiki.openstreetmap.org/wiki/Key:lit) (`yes`/`no`)
+
+## Resources
+
+- [Centerline Data Sources](https://github.com/osmlab/centerlines)
+- [OSM QA Tiles](https://osmlab.github.io/osm-qa-tiles/)
+- [Tippecanoe](https://github.com/mapbox/tippecanoe)
+- [Tile Reduce](https://github.com/mapbox/tile-reduce)
