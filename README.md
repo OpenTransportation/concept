@@ -36,3 +36,4 @@ All data must follow the [OSM Highway scheme](https://wiki.openstreetmap.org/wik
 - [Tile Reduce](https://github.com/mapbox/tile-reduce)
 - [TIGER Tiles](https://github.com/iandees/tiger-tiles)
 - [TIGER Battlegrid](https://github.com/iandees/tiger-battlegrid)
+- [SharedStreets](https://docs.google.com/document/d/1PsxUMWYniN3sKT0IbqC0RRC5nK9cno8P2BKk_MPn6t8/edit#heading=h.fltegbaf948o)
